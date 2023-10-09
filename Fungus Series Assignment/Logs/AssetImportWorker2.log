@@ -2543,3 +2543,11 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 161.321975 seconds.
+  path: Assets/Scenes/Fungus Assignment.unity
+  artifactKey: Guid(386c1b750e525de48918cd6dacfe6363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Fungus Assignment.unity using Guid(386c1b750e525de48918cd6dacfe6363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b0c545ad2d0b728395edcdaa2e60468') in 0.003131 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
