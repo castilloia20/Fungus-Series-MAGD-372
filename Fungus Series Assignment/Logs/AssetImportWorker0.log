@@ -260,3 +260,32 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 34314.601286 seconds.
+  path: Assets/Materials/dark_jail_cell.mat
+  artifactKey: Guid(33190b3378853e94d835701b69444757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/dark_jail_cell.mat using Guid(33190b3378853e94d835701b69444757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57ef5385e3fb389faf82bc23cf35d9f5') in 0.327951 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.038438 seconds.
+  path: Assets/Materials/dark_jail_cell 2.mat
+  artifactKey: Guid(3282ad3fd6cf3f1499387374088930d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/dark_jail_cell 2.mat using Guid(3282ad3fd6cf3f1499387374088930d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b0e8b4d79104259d53ebe25a6a0135e') in 0.019243 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Materials/dark_jail_cell 3.mat
+  artifactKey: Guid(4b9c63a53952fc24a9d3abe30ac5ac5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/dark_jail_cell 3.mat using Guid(4b9c63a53952fc24a9d3abe30ac5ac5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5309e7ba50f5ee194c4c638f3dd0bf9') in 0.009384 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

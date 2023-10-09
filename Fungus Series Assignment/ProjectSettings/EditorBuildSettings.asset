@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Fungus Assignment.unity
+    guid: 386c1b750e525de48918cd6dacfe6363
+  - enabled: 1
+    path: Assets/Scenes/Prison Ending.unity
+    guid: 69624b4a4e4e23a4eb1791de374354e6
+  - enabled: 1
+    path: Assets/Scenes/Freedom.unity
+    guid: 43de1a015a216d042827040203d4a735
   m_configObjects: {}
